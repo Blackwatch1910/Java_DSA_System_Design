@@ -1,0 +1,4 @@
+Mutable String is changeable string, which can be implemented by String Buffer and String Builder classes.
+Inside heap when a string buffer or string builder form is implemented, any change is reflected in the same object, unlike String class.
+
+Ex: StringBuffer sb = new StringBuffer("Blackwatch");
