@@ -1,1 +1,1 @@
-# THIS IS MY STARTING POINT and my first commit
+# THIS IS MY STARTING POINT and my first commit, let's do this
